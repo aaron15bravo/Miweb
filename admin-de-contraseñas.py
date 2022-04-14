@@ -1,2 +1,3 @@
 print("Hola Git")
-Print("Aprendiendo a usar git")
+print("Aprendiendo a usar git")
+print("Arregle el segundo print")
